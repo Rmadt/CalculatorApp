@@ -1,0 +1,12 @@
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form2.resources
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Dito\Kuliah\Semester 3\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
